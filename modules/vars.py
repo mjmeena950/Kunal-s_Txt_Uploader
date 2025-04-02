@@ -1,3 +1,3 @@
-api_id = "27994649"
-api_hash = "a667f9bf86b1e9af6ee9862fee3001e4"
-bot_token = "6767726971:AAG0kQTgbAXaqyd0kd1_tR0vdiAO21J48eQ"
+api_id = "23069582"
+api_hash = "b3b56eaf67828684f54d540f684fdf1f"
+bot_token = "7920777535:AAH7trV0VFjkFPn0aZXUuycIaPfWrLHhYWU"
